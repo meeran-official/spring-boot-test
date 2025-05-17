@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/hello") // Maps HTTP GET requests to /hello to this method
     public String sayHello() {
-        return "Hello, Spring Boot World! 🌍";
+        return "Hello, Spring Boot World! 🌍 test";
     }
 }
