@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.meeran</groupId>
-	<artifactId>my-first-spring-app</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>my-first-spring-app</name>
+	<artifactId>spring-boot-test</artifactId>
+	<version>0.0.1</version>
+	<name>spring-boot-test</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
